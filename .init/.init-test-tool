@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/crossdevice-notes-app-7093-7103/notes_frontend"
+}
